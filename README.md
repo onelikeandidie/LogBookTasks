@@ -1,6 +1,6 @@
 # Java Log Book Tasks
 
-![alt text](https://onelikeandidie.github.io/LogBookTasks/logbook_256x256 "BOOK")
+![alt text](https://onelikeandidie.github.io/LogBookTasks/logbook_256x256.png "BOOK")
 
 This is for Ioannis eyes only, don't look.
 
