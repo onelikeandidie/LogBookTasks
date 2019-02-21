@@ -5,7 +5,6 @@
 This is for Ioannis eyes only, don't look.
 
 > No spaghetti code
->
-> -   Ioannis
+> _Ioannis_
 
 Also don't forget to [rate the repo 5 stars](https://github.com/onelikeandidie/LogBookTasks).
