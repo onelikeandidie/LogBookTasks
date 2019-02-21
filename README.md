@@ -1,6 +1,6 @@
-# Java
+# Java Log Book Tasks
 
-## What a pain in the a s s
+![alt text](https://onelikeandidie.github.io/LogBookTasks/logbook_256x256 "BOOK")
 
 This is for Ioannis eyes only, don't look.
 
